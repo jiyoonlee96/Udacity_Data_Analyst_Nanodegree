@@ -8,6 +8,6 @@ This repository contains projects from Udacity's [Data Analyst Nanodegree](https
 
 - Project 3 : [Analyze A/B Test Results](https://github.com/jiyoonlee96/Udacity_Data_Analyst_Nanodegree/tree/main/Project%203)
 
-- Project 4 : [Wrangle and Analyze Data]
+- Project 4 : [Wrangle and Analyze Data](https://github.com/jiyoonlee96/Udacity_Data_Analyst_Nanodegree/tree/main/Project%204)
 
 - Project 5 : [Communicate Data Findings](https://github.com/jiyoonlee96/Udacity_Data_Analyst_Nanodegree/tree/main/Project%205)
